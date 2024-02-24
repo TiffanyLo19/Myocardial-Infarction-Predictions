@@ -2,7 +2,7 @@
 
 This project involves the analysis of medical data from 1700 patients to predict complications related to Myocardial Infarction (MI). The goal is to develop a predictive model based on patient information, leveraging Python and various machine learning techniques. The project includes data cleaning, exploration, interpretation, and the application of regression and classification algorithms to produce a final model.
 
-Dataset: https://archive.ics.uci.edu/dataset/579/myocardial+infarction+complications
+Dataset: https://archive.ics.uci.edu/dataset/579/myocardial+infarction+complications 
 
 ## Results
 This project focused on discerning key indicators for the early detection of severe Myocardial Infarction (MI), aiming to improve intervention strategies. Through comprehensive analysis, we identified two significant factors: angina symptoms and elevated white blood cell counts.
